@@ -31,8 +31,8 @@ Please make sure to update tests as appropriate.
 ##TO-DO
 - [x] UI Design
 - [x] Splash & Onboarding & Landing
-- [] Register
-- [] Login
-- [] HomePage
-- [] Profile Page
-- [] Payment Page
+- [ ] Register
+- [ ] Login
+- [ ] HomePage
+- [ ] Profile Page
+- [ ] Payment Page
