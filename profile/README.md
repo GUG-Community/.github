@@ -1,5 +1,5 @@
-![GUG Community](https://raw.githubusercontent.com/GUG-Community/.github/main/profile/1.jpeg)
-<img src="https://raw.githubusercontent.com/GUG-Community/.github/main/profile/1.jpeg" width="128"/>
+
+<img src="https://raw.githubusercontent.com/GUG-Community/.github/main/profile/1.jpeg" width="500"/>
 # GUGBNB
 
 GUGBNB is a hotel application developed with Flutter.
@@ -14,7 +14,7 @@ flutter pub get
 
 ## Usage
 
-```python
+```dart
 import flutter
 
 ```
