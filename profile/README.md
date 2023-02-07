@@ -1,3 +1,5 @@
+![GUG Community](https://raw.githubusercontent.com/GUG-Community/.github/main/profile/1.jpeg)
+
 # GUGBNB
 
 GUGBNB is a hotel application developed with Flutter.
