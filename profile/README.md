@@ -30,7 +30,7 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-##TO-DO
+## TO-DO
 - [x] UI Design
 - [x] Splash & Onboarding & Landing
 - [ ] Register
