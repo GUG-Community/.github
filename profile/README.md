@@ -27,3 +27,12 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+##TO-DO
+- [x] UI Design
+- [x] Splash & Onboarding & Landing
+- [] Register
+- [] Login
+- [] HomePage
+- [] Profile Page
+- [] Payment Page
